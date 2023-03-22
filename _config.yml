@@ -13,7 +13,7 @@ baseurl: /Dayy9984.github.io
 sass:
   sass_dir: _sass
 
-permalink: /posts/:title/
+permalink: ./posts/:title/
 texture:
   title: HAKBIN LEE
   tagline: Developer
